@@ -1,1 +1,2 @@
 # lung-segmentation
+使用交叉熵损失函数前需要对标签进行独热编码
